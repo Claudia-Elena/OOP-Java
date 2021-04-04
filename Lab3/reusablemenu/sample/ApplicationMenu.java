@@ -16,10 +16,7 @@ import reusablemenu.implementation.Menu;
 import reusablemenu.implementation.MenuItem;
 import reusablemenu.sample.Student;
 
-/**
- *
- * @author catalin
- */
+
 public class ApplicationMenu{
 	ArrayList<Student> studentsList = new ArrayList<Student>();
 	private Scanner consoleScanner=new Scanner(System.in);
