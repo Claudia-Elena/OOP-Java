@@ -8,10 +8,6 @@ package reusablemenu.implementation;
 import reusablemenu.abstractions.IExecutableAction;
 import reusablemenu.abstractions.IMenuItem;
 
-/**
- *
- * @author catalin
- */
 public class MenuItem implements IMenuItem {
     private final String text;
     private final int shortCut;
