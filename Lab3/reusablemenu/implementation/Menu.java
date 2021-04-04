@@ -11,10 +11,7 @@ import java.util.Scanner;
 import reusablemenu.abstractions.IMenuItem;
 import reusablemenu.sample.Student;
 
-/**
- *
- * @author catalin
- */
+
 public class Menu implements IMenuItem{
     
 	private ArrayList<IMenuItem> menuItems = new ArrayList();
