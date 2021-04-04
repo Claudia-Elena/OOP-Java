@@ -5,10 +5,7 @@
  */
 package reusablemenu.abstractions;
 
-/**
- *
- * @author catalin
- */
+
 public interface IMenuItem {
     String getText();
     int getShortCut();    
